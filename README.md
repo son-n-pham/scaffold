@@ -67,6 +67,6 @@ def test_add():
 
 ```bash
 python3 -m pip install virtualenv
-virtualenv .scaffold
-source .scaffold/bin/activate
+virtualenv ~/.scaffold
+source ~/.scaffold/bin/activate
 ```
