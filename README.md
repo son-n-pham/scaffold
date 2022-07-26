@@ -1,5 +1,4 @@
-[![Python application test with Github Actions](https://github.com/son-n-pham/scaffold/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/son-n-pham/scaffold/actions/workflows/pythonapp.yml)
-
+[![Python application test with Github Actions](https://github.com/son-n-pham/scaffold/actions/workflows/pythonapp.yml/badge.svg?branch=main)](https://github.com/son-n-pham/scaffold/actions/workflows/pythonapp.yml)
 # scaffold
 Python scaffold
 
