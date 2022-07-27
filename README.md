@@ -1,6 +1,6 @@
 [![Python 3.6.15 from Azure](https://github.com/son-n-pham/scaffold/actions/workflows/azure.yml/badge.svg)](https://github.com/son-n-pham/scaffold/actions/workflows/azure.yml)
-
 [![Python 3.8 from AWS](https://github.com/son-n-pham/scaffold/actions/workflows/aws.yml/badge.svg)](https://github.com/son-n-pham/scaffold/actions/workflows/aws.yml)
+[![Python 3.9 from GCP](https://github.com/son-n-pham/scaffold/actions/workflows/gcp.yml/badge.svg)](https://github.com/son-n-pham/scaffold/actions/workflows/gcp.yml)
 
 # scaffold
 Python scaffold
