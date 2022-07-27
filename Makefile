@@ -8,7 +8,7 @@ install-azure:
 
 install-gcp:
 	pip install --upgrade pip &&\
-		pip install -r requirements-aws.txt
+		pip install -r requirements-gcp.txt
 		
 format:
 	black *.py
