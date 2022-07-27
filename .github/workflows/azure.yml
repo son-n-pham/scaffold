@@ -1,4 +1,4 @@
-name: Azure Python 3.6.15
+name: Python 3.6.15 from Azure
 
 on: [push]
 
