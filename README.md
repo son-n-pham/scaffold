@@ -1,4 +1,7 @@
-[![Python application test with Github Actions](https://github.com/son-n-pham/scaffold/actions/workflows/pythonapp.yml/badge.svg?branch=main)](https://github.com/son-n-pham/scaffold/actions/workflows/pythonapp.yml)
+[![Python 3.6.15 from Azure](https://github.com/son-n-pham/scaffold/actions/workflows/azure.yml/badge.svg)](https://github.com/son-n-pham/scaffold/actions/workflows/azure.yml)
+
+[![Python 3.8 from AWS](https://github.com/son-n-pham/scaffold/actions/workflows/aws.yml/badge.svg)](https://github.com/son-n-pham/scaffold/actions/workflows/aws.yml)
+
 # scaffold
 Python scaffold
 
