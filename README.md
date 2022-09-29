@@ -9,7 +9,7 @@ Python scaffold
 
 ssh in cloud9 of aws:
 ```
-ssh-kegen -t rsa
+ssh-keygen -t rsa
 ```
 Now git clone ssh
 
